@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PruebaBrowserTravel.AccesData\PruebaBrowserTravel.AccesData.csproj" />
+    <ProjectReference Include="..\PruebaBrowserTravel.Models\PruebaBrowserTravel.Models.csproj" />
+  </ItemGroup>
+
+</Project>
